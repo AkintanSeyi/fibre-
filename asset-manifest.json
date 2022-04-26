@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fibre-/static/css/main.3d49235f.css",
-    "main.js": "/fibre-/static/js/main.031ebb6e.js",
+    "main.css": "/fibre-/static/css/main.4d4a9022.css",
+    "main.js": "/fibre-/static/js/main.416c17f9.js",
     "index.html": "/fibre-/index.html",
-    "main.3d49235f.css.map": "/fibre-/static/css/main.3d49235f.css.map",
-    "main.031ebb6e.js.map": "/fibre-/static/js/main.031ebb6e.js.map"
+    "main.4d4a9022.css.map": "/fibre-/static/css/main.4d4a9022.css.map",
+    "main.416c17f9.js.map": "/fibre-/static/js/main.416c17f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d49235f.css",
-    "static/js/main.031ebb6e.js"
+    "static/css/main.4d4a9022.css",
+    "static/js/main.416c17f9.js"
   ]
 }
